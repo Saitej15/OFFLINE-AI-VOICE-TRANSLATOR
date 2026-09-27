@@ -1,0 +1,10 @@
+streamlit
+sounddevice
+numpy
+scipy
+torch
+torchaudio
+transformers
+faster-whisper
+sentencepiece
+sacremoses
